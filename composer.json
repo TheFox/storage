@@ -2,7 +2,7 @@
     "name": "thefox/storage",
     "description": "Storage Systems",
     "license": "GPL-3.0",
-    "type": "project",
+    "type": "library",
     "keywords": [
         "yaml",
         "file",
