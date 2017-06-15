@@ -23,7 +23,8 @@ class YamlStorage
     public $data = [];
 
     /**
-     * @todo make private
+     * @todo make private in 1.0.0.
+     * @deprecated Will be private in 1.0.0.
      * @var bool
      */
     public $dataChanged = false;
