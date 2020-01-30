@@ -1,7 +1,7 @@
 {
     "name": "thefox/storage",
     "description": "Storage Systems",
-    "license": "GPL-3.0",
+    "license": "MIT",
     "type": "library",
     "keywords": [
         "yaml",
